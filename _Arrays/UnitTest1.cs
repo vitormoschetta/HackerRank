@@ -19,6 +19,7 @@ public class UnitTest1
         Assert.Equal(3, jumps);
     }
 
+
     [Fact]
     public void Test2()
     {
@@ -31,6 +32,7 @@ public class UnitTest1
         // Assert
         Assert.Equal(4, saltos);
     }
+
 
     private static int JumpingOnClouds(List<int> c)
     {

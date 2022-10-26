@@ -22,6 +22,7 @@ public class UnitTest2
         Assert.Equal(4, a);
     }
 
+
     [Fact]
     public void Test1()
     {
@@ -35,6 +36,7 @@ public class UnitTest2
         // Assert
         Assert.Equal(7, a);
     }
+
 
     [Fact]
     public void Test2()
